@@ -6,7 +6,7 @@ Understand the informer mechanism
 ![](https://img-blog.csdnimg.cn/5ebf710b7c804d2abc0303a999d80219.png)
 
 
-# premise
+# Premise
 ```shell
 You must have a kubeConfig for you to connect to the cluster
 ```
